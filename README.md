@@ -1,18 +1,17 @@
+# Arya Bima Sena
+
 ## About Me
 Lulusan S1 Matematika yang memiliki minat pada Data Analytics. Tertarik mengubah data menjadi insight yang mendukung pengambilan keputusan bisnis.
 
 ## Skills & Tools
-
 ### Data Analysis
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Dashboard Development
-
 ### Programming
 - Python
 - SQL
-
 ### Tools
 - Excel
 - Google Sheets
