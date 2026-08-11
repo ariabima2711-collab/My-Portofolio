@@ -1,4 +1,4 @@
-# Arya Bima Sena
+# Arya Bima Sena's Project
 
 ## About Me
 Lulusan S1 Matematika yang memiliki minat pada Data Analytics. Tertarik mengubah data menjadi insight yang mendukung pengambilan keputusan bisnis.
@@ -20,7 +20,17 @@ Lulusan S1 Matematika yang memiliki minat pada Data Analytics. Tertarik mengubah
 - Looker Studio
 
 ## Projects
-- [Chocolate Sales Analysis](https://github.com/ariabima2711-collab/chocolate-sales-project-python.git)
+### [Project 1: Chocolate Sales Analysis](https://github.com/ariabima2711-collab/chocolate-sales-project-python.git)
+Latar Belakang
+Perusahaan ingin memahami performa penjualan produk coklat untuk meningkatkan revenue dan profit.
+
+Tujuan Analisis
+- Mengidentifikasi produk terlaris
+- Mengetahui performa store
+- Menganalisis profitabilitas
+- Memberikan rekomendasi bisnis
+
+Tools: Python(pandas, matplotlib)
 - [Retail Toys Sales Analysis](https://github.com/ariabima2711-collab/Retail-Toys-Sales-Analysis.git)
 - [Toys Sales Dashboard](https://datastudio.google.com/s/rH5B9rE5Nx4)
 
