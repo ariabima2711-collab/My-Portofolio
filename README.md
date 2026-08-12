@@ -1,5 +1,5 @@
 # About Me
-Lulusan S1 Matematika dengan ketertarikan pada bidang data analitik serta pengalaman.akademik dalam pemodelan data menggunakan Support Vector Regression. Memiliki kemampuan dasar SQL, Python, Excel, serta kemampuan berpikir analitis. Termotivasi untuk mengembangkan kemampuan analisis data & machine learning.
+Lulusan S1 Matematika dengan ketertarikan pada bidang data analitik. Memiliki kemampuan dasar SQL, Python, Excel, serta kemampuan berpikir analitis. Termotivasi untuk mengembangkan kemampuan analisis data & machine learning.
 
 # Projects
 
