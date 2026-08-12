@@ -1,38 +1,19 @@
-# Arya Bima Sena's Project
+# About Me
+Lulusan S1 Matematika dengan ketertarikan pada bidang data analitik serta pengalaman.akademik dalam pemodelan data menggunakan Support Vector Regression. Memiliki kemampuan dasar SQL, Python, Excel, serta kemampuan berpikir analitis. Termotivasi untuk mengembangkan kemampuan analisis data & machine learning.
 
-## About Me
-Lulusan S1 Matematika yang memiliki minat pada Data Analytics. Tertarik mengubah data menjadi insight yang mendukung pengambilan keputusan bisnis.
+# Projects
 
-## Skills & Tools
-### Data Analysis
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Dashboard Development
-
-### Programming
-- Python
-- SQL
-
-### Tools
-- Excel
-- Google Sheets
-- Looker Studio
-
-## Projects
-### [Project 1: Chocolate Sales Analysis](https://github.com/ariabima2711-collab/chocolate-sales-project-python.git)
-Latar Belakang
-Perusahaan ingin memahami performa penjualan produk coklat untuk meningkatkan revenue dan profit.
-
-Tujuan Analisis
-- Mengidentifikasi produk terlaris
-- Mengetahui performa store
-- Menganalisis profitabilitas
-- Memberikan rekomendasi bisnis
-
+## [Project 1: Chocolate Sales Analysis](https://github.com/ariabima2711-collab/chocolate-sales-project-python.git)
+Analisis penjualan coklat yang bertujuan untuk memberi strategi penjualan di masa depan berdasarkan data penjualan.
 Tools: Python(pandas, matplotlib)
-- [Retail Toys Sales Analysis](https://github.com/ariabima2711-collab/Retail-Toys-Sales-Analysis.git)
-- [Toys Sales Dashboard](https://datastudio.google.com/s/rH5B9rE5Nx4)
 
-## Let's Connect
+## [Project 2: Discount Effectiveness Analysis](https://github.com/ariabima2711-collab/discount-effectiveness-analysis.git)
+Analisis penjualan coklat yang bertujuan untuk mengetahui efektivitas diskon.
+Tools: Python(pandas, matplotlib, seaborn)
+
+## [Project 3: Toys Sales Dashboard](https://datastudio.google.com/s/rH5B9rE5Nx4)
+Dashboard penjualan retail mainan dengan dataset hasil generate ChatGPT.
+Tools: Google Data Studio
+
+# Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/aryabimasena)
